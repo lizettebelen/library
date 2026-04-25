@@ -1,0 +1,39 @@
+# Uploaded files and covers
+uploads/
+uploads/covers/
+!uploads/.gitkeep
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# IDE files
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Local configuration
+config/local.php
+
+# PHP temporary files
+*.php~
+*.phtml~
+
+# Dependencies
+vendor/
+node_modules/
+
+# Backup files
+*.bak
+*.backup
+*~
